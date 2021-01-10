@@ -77,7 +77,7 @@ function setup() {
   syrup.scale=0.5;
 
   back=createButton("BACK");
-  back.position(displayWidth-100,displayHeight-200);
+  back.position(displayWidth-100,displayHeight-150);
   back.hide();
 
   map=document.getElementById("ifrm").style.display="none"
